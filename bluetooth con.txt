@@ -1,0 +1,4 @@
+D0 -> RX ; LV2
+D1 - TX, LV1 
+RX - LV2
+
